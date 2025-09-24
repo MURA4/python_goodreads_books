@@ -18,9 +18,6 @@ Practice core data analysis skills: data cleaning, exploratory data analysis (ED
 
 > 🔍 **Note**: This is an academic exercise using a publicly available dataset. No real product decisions were made based on this analysis — it's a demonstration of analytical thinking and technical execution.
 
-## 📁 Dataset
-Public Goodreads dataset (sourced from Kaggle / GitHub — link if available)
-
 ## 💡 Why I did it
 To strengthen my ability to:
 - Ask meaningful questions about user behavior (even in non-financial contexts)  
